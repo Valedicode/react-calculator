@@ -31,21 +31,21 @@ It displays the current result at the top and allows users to input a number to 
 ## 🚀 Getting Started
 
 ### 1. Clone this repository
-
+```bash
 git clone https://github.com/yourusername/simple-react-calculator.git
 
 ### 2. Clone this repository
-
+```bash
 cd simple-react-calculator
 
 ### 3. Install dependencies
-
+```bash
 npm install
 
 ### 4. Start the development server
-
+```bash
 npm start
 
 ### 5. Visit the application via localhost (or your private network)
-
+```bash
 http://localhost:3000
