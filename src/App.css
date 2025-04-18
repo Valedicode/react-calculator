@@ -1,0 +1,58 @@
+body{
+  background-color: #869286;
+}
+
+form {
+  display: flex;
+  flex-direction: column;  
+  align-items: center;
+} 
+
+.button-row {
+ 
+
+  gap: 10px;
+  margin-bottom: 20px; 
+}
+
+.reset-buttons {
+  gap: 10px;
+  margin-left: 20px; 
+}
+
+h1 {
+  text-align: center;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+input,
+button {
+  font-size: 20px;
+  padding: 15px 30px; 
+  border-radius: 5px;
+}
+
+input {
+  display: block;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 30px;
+  border: 1px solid gray;
+  background: whitesmoke;
+  margin-right: 5px;
+  padding: 100px; 
+}
+
+.reset {
+  background: tomato;
+  color: white;
+}
+
+button:hover {
+  background-color: #484948;
+}
